@@ -1,2 +1,1 @@
-# weather
-it shows you weather and stuff.
+# PRO-C179-Student-Boilerplate
